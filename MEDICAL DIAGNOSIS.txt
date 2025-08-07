@@ -1,0 +1,4 @@
+MEDICAL DIAGNOSIS
+---
+This project uses specialized AI a CNN to diagnose Medical Condition from images. it first prepares medical images using an image data pipeline then th AI through a Model Trainig Lifecycle. After learning  the AI's Knowledge is saved using Persistence,allowing it to be used later. Crucially, it also offers Explainable AI(XAI) with Grad-Cam(Gradient-Weighted Class Activation Mapping) which shows why the AI made a diagnosis highlighting the most imp parts of images
+---
